@@ -455,6 +455,81 @@
             "en": "ten"
           }
         ]
+      },
+      {
+        "name": "Ordering & Restaurant",
+        "cards": [
+          {
+            "kr": "저기요",
+            "rom": "JEO-GI-YO",
+            "en": "Excuse me (calling staff)"
+          },
+          {
+            "kr": "여기요",
+            "rom": "YEO-GI-YO",
+            "en": "Excuse me (staff is close)"
+          },
+          {
+            "kr": "수고하세요",
+            "rom": "SU-GO-HA-SE-YO",
+            "en": "Thank you for your hard work (when leaving)"
+          },
+          {
+            "kr": "물 좀 주세요",
+            "rom": "MUL JOM JU-SE-YO",
+            "en": "Water please"
+          },
+          {
+            "kr": "하나 주세요",
+            "rom": "HA-NA JU-SE-YO",
+            "en": "One please"
+          },
+          {
+            "kr": "따뜻한 거 주세요",
+            "rom": "TTA-TTEU-TAN GEO JU-SE-YO",
+            "en": "Hot one please"
+          },
+          {
+            "kr": "차가운 거 주세요",
+            "rom": "CHA-GA-UN GEO JU-SE-YO",
+            "en": "Cold one please"
+          },
+          {
+            "kr": "얼음 주세요",
+            "rom": "EO-REUM JU-SE-YO",
+            "en": "Ice please"
+          },
+          {
+            "kr": "여기서 먹고 갈게요",
+            "rom": "YEO-GI-SEO MEOK-GO GAL-GE-YO",
+            "en": "I'll eat here (for here)"
+          },
+          {
+            "kr": "가지고 갈게요",
+            "rom": "GA-JI-GO GAL-GE-YO",
+            "en": "I'll take it to go"
+          },
+          {
+            "kr": "잘 먹었습니다",
+            "rom": "JAL MEO-GEOT-SEUM-NI-DA",
+            "en": "I ate well (after meal)"
+          },
+          {
+            "kr": "있어요?",
+            "rom": "I-SSEO-YO?",
+            "en": "Do you have? / Is there?"
+          },
+          {
+            "kr": "맵게 해주세요",
+            "rom": "MAEP-GE HAE-JU-SE-YO",
+            "en": "Make it spicy please"
+          },
+          {
+            "kr": "덜 맵게 해주세요",
+            "rom": "DEOL MAEP-GE HAE-JU-SE-YO",
+            "en": "Less spicy please"
+          }
+        ]
       }
     ]
   }
